@@ -258,7 +258,7 @@ h2 {
   color: whitesmoke;
   display: flex;
   align-items: center;
-  text-align: center;
+  justify-content: center;
   background-color: rgba(112, 112, 112, 0.265);
   box-shadow: 0 0 15px cadetblue;
 }
