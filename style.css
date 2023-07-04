@@ -20,7 +20,7 @@ nav {
 header {
   position: relative;
   height: 55vh;
-  min-height: 400px;
+  min-height: 500px;
   flex-direction: column;
   background-image: url("https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg");
   background-size: cover;
@@ -113,11 +113,11 @@ section {
 /* ABOUT SECTION */
 
 .profile-pic {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   border: 3px solid whitesmoke;
-  margin-top: -6em;
+  margin-top: -6.5em;
   margin-bottom: 4em;
   z-index: 2;
   box-shadow: 0 0 15px gray;
@@ -428,9 +428,9 @@ h2 {
   /* ABOUT SECTION */
 
   .profile-pic {
-    width: 150px;
-    height: 150px;
-    margin-top: -6.5em;
+    width: 180px;
+    height: 180px;
+    margin-top: -7.5em;
   }
 
   .about-container p {
